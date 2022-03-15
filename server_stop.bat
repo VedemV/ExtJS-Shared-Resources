@@ -1,0 +1,1 @@
+@ cmd.exe /c sencha web start
